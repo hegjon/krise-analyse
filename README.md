@@ -1,0 +1,2 @@
+# krise-analyse
+Analysere tidliger
